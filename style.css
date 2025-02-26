@@ -5,3 +5,28 @@ h1 {
 p {
     color: red;
 }
+
+div {
+    background-color: rgb(25, 199, 147);
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.black-bg {
+    background-color: black;
+}
+
+.red-bg {
+    background-color: red;
+}
+
+.container {
+    background-color: rgb(25, 199, 147);
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.container h1 {
+    color: white;
+    font-size: 100px;
+}

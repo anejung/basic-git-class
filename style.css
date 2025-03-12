@@ -2,7 +2,8 @@
 body {
     background-color: #ECEAD8;
     color: #7D5A22;
-    font-family: Arial, sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100; /* Sets the font weight to 100 */
     margin: 0;
     padding: 0;
 }
@@ -11,7 +12,7 @@ body {
 header {
     text-align: center;
     font-size: 2em;
-    font-weight: bold;
+    font-weight: 100; /* Applies light font weight */
     margin: 20px 0;
 }
 

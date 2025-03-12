@@ -23,3 +23,13 @@ main {
     line-height: 1.6;
     font-size: 1.1em;
 }
+
+/* Styling for the Monkey Image */
+.monkey-image {
+    display: block;
+    margin: 20px auto; /* Center the image */
+    width: 50%; /* Adjust the size as needed */
+    max-width: 300px; /* Prevents the image from getting too large */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 8px; /* Adds rounded corners (optional) */
+}
